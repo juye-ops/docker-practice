@@ -27,6 +27,7 @@
 
 ### Database
 - Container 이름: `database`
+- 사용 이미지: `mongo`
 - 컨테이너 특징
   - port: 27017
 
